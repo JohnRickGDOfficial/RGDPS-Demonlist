@@ -1,0 +1,37 @@
+{
+    "id": 186,
+    "name": "Dread",
+    "author": "Hunterkek77",
+    "creators": [],
+    "verifier": "BastianAK",
+    "verification": "https://www.youtube.com/watch?v=zxiOO5G3m3o",
+    "showcase": "https://www.youtube.com/watch?v=zxiOO5G3m3o",
+    "password": "Locked With Password",
+    "percentToQualify": 100,
+    "records": [
+      {
+            "user": "CatCoolYe",
+            "link": "https://youtu.be/1qdhSS5KWaI",
+            "percent": 100,
+            "hz": 240
+        },
+       {
+            "user": "Nesra",
+            "link": "https://youtube.com/shorts/j5vjSj-8Pxo?feature=share",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "TRMMythias",
+            "link": "https://www.youtube.com/watch?v=5-BXLxO2iXk",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "PlyixeGMD",
+            "link": "https://www.youtube.com/watch?v=V02ut98I2IU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

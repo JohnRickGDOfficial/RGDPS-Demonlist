@@ -1,0 +1,19 @@
+{
+    "id": 248,
+    "name": "Hello Guys",
+    "author": "ytgaming5005",
+    "creators": [],
+    "verifier": "ytgaming5005",
+    "verification": "https://youtu.be/_dbcRJMCS7o",
+    "showcase": "https://youtu.be/_dbcRJMCS7o",
+    "password": "",
+    "percentToQualify": 53,
+    "records": [
+      {
+            "user": "VOIDNOVA",
+            "link": "https://www.youtube.com/watch?v=jxaSNyjDX7Q",
+            "percent": 100,
+            "hz": 180
+        }
+    ]
+}

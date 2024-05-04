@@ -1,0 +1,19 @@
+{
+    "id": 425,
+    "name": "Life After Love",
+    "author": "Sevenworks",
+    "creators": [],
+    "verifier": "Sevenworks",
+    "verification": "https://www.youtube.com/watch?v=zFhinEzx7D8",
+    "showcase": "https://www.youtube.com/watch?v=zFhinEzx7D8",
+    "password": "",
+    "percentToQualify": 50,
+    "records": [
+          {
+            "user": "VOIDNOVA",
+            "link": "https://www.youtube.com/watch?v=KsuBgJudm30",
+            "percent": 100,
+            "hz": 180
+        }
+    ]
+}

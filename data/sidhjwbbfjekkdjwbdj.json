@@ -1,0 +1,37 @@
+{
+    "id": 389,
+    "name": "sidhjwbbfjekkdjwbdj",
+    "author": "Sevenworks",
+    "creators": [],
+    "verifier": "Sevenworks",
+    "verification": "https://www.youtube.com/watch?v=gOhwdLYfWik",
+    "showcase": "https://www.youtube.com/watch?v=gOhwdLYfWik",
+    "password": "",
+    "percentToQualify": 37,
+    "records": [
+        {
+            "user": "BastianAK",
+            "link": "https://youtu.be/wLCghxDLV5c",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "VOIDNOVA",
+            "link": "https://youtu.be/q16Ym1d3M-0",
+            "percent": 100,
+            "hz": 180
+        },
+        {
+            "user": "TRMMythias",
+            "link": "https://www.youtube.com/watch?v=BOHdR1-Lkm8",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Kuna",
+            "link": "https://www.youtube.com/watch?v=aGxHHMqVf-s",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}

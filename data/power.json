@@ -1,0 +1,31 @@
+{
+    "id": 170,
+    "name": "Power",
+    "author": "KarimGD",
+    "creators": [],
+    "verifier": "KarimGD",
+    "verification": "https://www.youtu.be/veE3NBk3vOk",
+    "showcase": "https://www.youtu.be/veE3NBk3vOk",
+    "password": "678901",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "BastianAK",
+            "link": "https://www.youtube.com/watch?v=3Nw4kLu_0fo",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "CatCoolYe",
+            "link": "https://youtu.be/JBhD8TszuWk",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "VOIDNOVA",
+            "link": "https://youtu.be/wvR-8FHdfL8",
+            "percent": 100,
+            "hz": 180
+        }
+    ]
+}

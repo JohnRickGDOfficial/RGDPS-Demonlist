@@ -1,0 +1,19 @@
+{
+    "id": 513,
+    "name": "Epilogue",
+    "author": "Sevenworks",
+    "creators": [],
+    "verifier": "Sevenworks",
+    "verification": "https://youtu.be/M34u1ChNbDg",
+    "showcase": "https://youtu.be/M34u1ChNbDg",
+    "password": "",
+    "percentToQualify": 61,
+    "records": [
+            {
+            "user": "VOIDNOVA",
+            "link": "https://youtu.be/5B8LvfgtJjA",
+            "percent": 100,
+            "hz": 180
+        }
+    ]
+}

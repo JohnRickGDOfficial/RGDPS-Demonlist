@@ -1,0 +1,19 @@
+{
+    "id": 571,
+    "name": "Teneon Bless",
+    "author": "Nesra",
+    "creators": ["Nesra"],
+    "verifier": "Nesra",
+    "verification": "https://youtu.be/PNGReOiohj0",
+    "showcase": "https://youtu.be/PNGReOiohj0",
+    "password": "Locked with password",
+    "percentToQualify": 80,
+    "records": [
+        {
+            "user": "Voidnova",
+            "link": "https://www.youtube.com/watch?v=DyIadjfQOSc",
+            "percent": 100,
+            "hz": 180
+        }
+    ]
+}

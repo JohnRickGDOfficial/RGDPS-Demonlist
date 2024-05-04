@@ -1,0 +1,37 @@
+{
+    "id": 133,
+    "name": "DeathCore",
+    "author": "RealTitlon",
+    "creators": [],
+    "verifier": "MewJohto",
+    "verification": "https://youtu.be/1uZYcPIokuQ",
+    "showcase": "https://youtu.be/1uZYcPIokuQ",
+    "password": "Locked with Password",
+    "percentToQualify": 40,
+    "records": [
+       {
+            "user": "BastianAK",
+            "link": "https://www.youtube.com/watch?v=eZXHrrE9Jdg",
+            "percent": 100,
+            "hz": 360
+        },
+       {
+            "user": "Nesra",
+            "link": "https://youtu.be/43EQqWilIiE",
+            "percent": 100,
+            "hz": 60
+        },
+       {
+            "user": "PlayboiCarti",
+            "link": "https://youtu.be/ws5qfqa8jy0",
+            "percent": 100,
+            "hz": 60
+        },
+       {
+            "user": "Voidnova",
+            "link": "https://www.youtube.com/watch?v=SKfvnPdpW10",
+            "percent": 100,
+            "hz": 180
+        }
+    ]
+}

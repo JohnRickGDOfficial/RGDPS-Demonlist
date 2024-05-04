@@ -1,0 +1,25 @@
+{
+    "id": 201,
+    "name": "Limabol",
+    "author": "XCougtt",
+    "creators": [],
+    "verifier": "XCougtt",
+    "verification": "https://www.youtube.com/watch?v=RTVQRDoLCjM&t=7s",
+    "showcase": "https://www.youtube.com/watch?v=RTVQRDoLCjM&t=7s",
+    "password": "Locked with Password",
+    "percentToQualify": 39,
+    "records": [
+        {
+            "user": "Nesra",
+            "link": "https://youtu.be/z9KW2r48aCA",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "PlayboiCarti",
+            "link": "https://youtu.be/ydnzx3Tq6f8",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

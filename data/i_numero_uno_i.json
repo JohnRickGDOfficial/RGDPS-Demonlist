@@ -1,0 +1,19 @@
+{
+    "id": 386,
+    "name": "I Numero Uno I",
+    "author": "Sevenworks",
+    "creators": [],
+    "verifier": "Sevenworks",
+    "verification": "https://www.youtube.com/watch?v=B1aUZ8g_knc",
+    "showcase": "https://www.youtube.com/watch?v=B1aUZ8g_knc",
+    "password": "",
+    "percentToQualify": 47,
+    "records": [
+        {
+            "user": "VOIDNOVA",
+            "link": "https://youtu.be/pvCSIRg6Cbs",
+            "percent": 100,
+            "hz": 180
+        }
+    ]
+}

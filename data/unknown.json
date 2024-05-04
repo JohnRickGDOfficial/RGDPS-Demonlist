@@ -1,0 +1,25 @@
+{
+    "id": 270,
+    "name": "Unknown",
+    "author": "Sevenworks",
+    "creators": [],
+    "verifier": "Sevenworks",
+    "verification": "https://youtu.be/zXN8UKix4Vc",
+    "showcase": "https://youtu.be/zXN8UKix4Vc",
+    "password": "",
+    "percentToQualify": 56,
+    "records": [
+        {
+            "user": "VOIDNOVA",
+            "link": "https://youtu.be/Zf96ZzQq2s0",
+            "percent": 100,
+            "hz": 180
+        },
+        {
+            "user": "Kuna",
+            "link": "https://www.youtube.com/watch?v=EGVmXZ1n-bw",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
