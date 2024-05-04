@@ -1,0 +1,19 @@
+{
+    "id": 708,
+    "name": "absolute wave",
+    "author": "Nicole",
+    "creators": [],
+    "verifier": "VOIDNOVA",
+    "verification": "https://youtu.be/tbLXVd3rzVU",
+    "showcase": "https://youtu.be/tbLXVd3rzVU",
+    "password": "",
+    "percentToQualify": 67,
+    "records": [
+       {
+            "user": "MyUsername",
+            "link": "https://www.youtube.com/watch?v=wgJfcjCoh6E",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
