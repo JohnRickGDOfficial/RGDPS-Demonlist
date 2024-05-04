@@ -1,0 +1,25 @@
+{
+    "id": ,
+    "name": "",
+    "author": "",
+    "creators": [],
+    "verifier": "",
+    "verification": "",
+    "showcase": "",
+    "password": "",
+    "percentToQualify": ,
+    "records": [
+        {
+            "user": "",
+            "link": "",
+            "percent": 0,
+            "hz": 60
+        },
+        {
+            "user": "",
+            "link": "",
+            "percent": 0,
+            "hz": 60
+        }
+    ]
+}
